@@ -13,17 +13,6 @@ Welcome to my Python learning repository. This repository documents my journey f
 - Contribute to open source
 - Prepare for software engineering and AI/ML roles
 
-##  Progress
-
-### Day 1
-- ✅ Learned Python basics
-- ✅ Variables
-- ✅ Data Types
-- ✅ User Input
-- ✅ String Methods
-- ✅ Built my first mini programs
-- ✅ Uploaded my first Python notebook
-
 > Note: I completed several Day 1 practice programs using an online Python editor. This repository starts with the first notebook I saved. Future work will be developed and uploaded from my local environment.
 
 ---
