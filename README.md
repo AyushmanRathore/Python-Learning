@@ -1,4 +1,4 @@
-# 🐍 Python Learning Journey
+# Python Learning Journey
 
 Hi! I'm Ayushman Rathore.
 
@@ -24,7 +24,7 @@ Welcome to my Python learning repository. This repository documents my journey f
 - ✅ Built my first mini programs
 - ✅ Uploaded my first Python notebook
 
-> Note: I completed several Day 1 practice programs using an online Python editor. This repository starts with the first notebook I saved. Future work will be developed and uploaded from my local environment.
+Note: I completed several Day 1 practice programs using an online Python editor. This repository starts with the first notebook I saved. Future work will be developed and uploaded from my local environment.
 
 ---
 
