@@ -4,7 +4,7 @@ Hi! I'm Ayushman Rathore.
 
 Welcome to my Python learning repository. This repository documents my journey from learning the fundamentals of Python to building real-world AI and Machine Learning projects.
 
-## 🎯 Goals
+##  Goals
 
 - Build a strong foundation in Python
 - Master Data Structures & Algorithms
@@ -13,7 +13,7 @@ Welcome to my Python learning repository. This repository documents my journey f
 - Contribute to open source
 - Prepare for software engineering and AI/ML roles
 
-## 📅 Progress
+##  Progress
 
 ### Day 1
 - ✅ Learned Python basics
